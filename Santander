@@ -1,0 +1,22 @@
+echo "# T12062020GHB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nedludd89/T12062020GHB.git
+git push -u origin master
+                Alan Fishman
+Álvaro Antonio Cardoso de Souza
+Ana Botín
+Belén Romana García
+Bruce Carnegie-Brown
+Carlos Fernández González
+Esther Giménez-Salinas i Colomer
+Guillermo de la Dehesa Romero
+Guy Moszkowski
+Hector Grisi
+sestructurales.corp.bsch
+corp.bsch
+gruposantander.es
+merchantinsider.santanderbank.com
+https://infoproductos.bancosantander.es/cssa/Satellite?pagename=OpenMarket/Demos/index
+https://www.bancosantander.es
